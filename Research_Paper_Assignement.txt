@@ -1,4 +1,9 @@
-Group Members: Waniya Ishtiaque (20494) , Muhammad Haris(20499) , Marium Azhar (20493), Wajid Ahmed(20504) and Shayan Ahmed (21650)
+Group Members:
+Waniya Ishtiaque (20494) 
+Muhammad Haris(20499)
+Marium Azhar (20493)
+Wajid Ahmed(20504) 
+Shayan Ahmed (21650)
 
 
 Introduction to Utilizing Git for Version Control Explanation
@@ -36,5 +41,4 @@ Merging Branches: Seamlessly combine branches with git merge branch-name, result
 Remote Repositories: Establish a connection to a remote repository by adding its web address with git remote add origin remote-url. Send your commits to the remote repository using git push origin branch-name.
 
 Conclusion:
-
 In essence, the research paper instructs us on how to employ Git for the management and control of different versions of our work. It clarifies how Git improves collaboration, simplifies change tracking, and supports effective project management. This guidance isn't confined to computer experts; it acts as an enlightening manual for researchers to adeptly manage their ideas and work in an intelligent and organized manner.
