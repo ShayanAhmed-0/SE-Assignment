@@ -1,4 +1,5 @@
 Group Members:
+
 Waniya Ishtiaque (20494) 
 Muhammad Haris(20499)
 Marium Azhar (20493)
@@ -8,13 +9,13 @@ Shayan Ahmed (21650)
 
 Introduction to Utilizing Git for Version Control Explanation
 
-To put it in simpler words, the research paper titled "Getting Started with Version Control Using Git," penned by seasoned software engineers H. Ratcliffe and C.S. Brady of Warwick Research Software Engineering, explores a clever approach to overseeing code with a specialized tool named Git. This document acts as a valuable guide for individuals engaged in research or software development. It goes into detail about how Git simplifies the process of organizing code, collaborating effectively with others, and keeping a meticulous record of all changes made.
+To put it simply, the research paper titled "Getting Started with Version Control Using Git," penned by seasoned software engineers H. Ratcliffe and C.S. Brady of Warwick Research Software Engineering, explores a clever approach to overseeing code with a specialized tool named Git. This document is a valuable guide for individuals engaged in research or software development. It goes into detail about how a Git simplifies the process of organizing code, collaborating effectively with others, and keeping a meticulous record of all changes made.
 
 Key Highlights:
 
 Version Control and Git: At its core, version control functions like a time-travel mechanism for your code. Imagine having the ability to track changes, enhance collaboration, and even revert to previous versions if necessary. Git, a widely adopted version control tool in the software domain, enables this transformative capability.
 
-Collaborative Development: One of the remarkable features of Git lies in its capacity to facilitate seamless collaboration. Multiple individuals can work simultaneously on the same codebase, with Git smoothly managing the integration and merging of their contributions.
+Collaborative Development:The One of the remarkable features of Git lies in its capacity to facilitate seamless collaboration. Multiple individuals can work simultaneously on the same codebase, with Git smoothly managing the integration and merging of their contributions.
 
 Repositories: Git utilizes repositories to store code and its historical evolution. Visualize a repository as a central storage place for a project, containing files and their chronological versions. Each code modification adds a new entry to the repository's history.
 
