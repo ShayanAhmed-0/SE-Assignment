@@ -1,10 +1,11 @@
 Group Members:
 
-Waniya Ishtiaque (20494) 
+ 
 Muhammad Haris(20499)
 Marium Azhar (20493)
 Wajid Ahmed(20504) 
 Shayan Ahmed (21650)
+Waniya Ishtiaque (20494)
 
 
 Introduction to Utilizing Git for Version Control Explanation
